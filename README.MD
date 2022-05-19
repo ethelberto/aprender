@@ -1,6 +1,6 @@
-#README
+# README
 
-##Diretório utilizado para meu aprendizado
+## Diretório utilizado para meu aprendizado
 
 **Negrito**
 
